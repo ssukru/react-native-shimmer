@@ -46,8 +46,8 @@
     "prettier": "^1.16.1"
   },
   "peerDependencies": {
-    "react": "*",
-    "react-native": "*"
+    "react": ">=16.0.0-alpha.12",
+    "react-native": ">=0.45.1"
   },
   "dependencies": {
     "prop-types": "^15.6.0"
